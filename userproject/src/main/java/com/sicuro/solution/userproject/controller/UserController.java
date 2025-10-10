@@ -13,7 +13,6 @@ import java.util.stream.Collectors;
 import java.util.HashMap;
 import java.util.List;
 
-@PostMapping("/add")
 @RestController
 @RequestMapping("/api/user")
 @CrossOrigin(origins = "*")
